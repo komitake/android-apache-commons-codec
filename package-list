@@ -1,0 +1,4 @@
+org.apache.commons.codec
+org.apache.commons.codec.binary
+org.apache.commons.codec.language
+org.apache.commons.codec.net
